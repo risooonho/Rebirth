@@ -1,5 +1,5 @@
 # Rebirth
-An First Person Horror game based on Unreal Engine.
+An First Person Detective Horror game based on Unreal Engine.
 
 Engine Used:
   Unreal Engine 4
